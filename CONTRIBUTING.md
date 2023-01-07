@@ -90,7 +90,7 @@ Maintainers reserve the right to weigh the opinions of peer reviewers using comm
 that have demonstrated a deeper commitment and understanding toward Dogecoin (over time) or have clear domain expertise may naturally have more weight, as one would expect in all walks of life.
 
 ### Maintainers
-Maintainers are appointed to their position depending on their merits, skills, and contributions to Dogecoin, its ecosystem, and its community. The composition of the group of maintainers should not represent the opinions of a specific organization, company, or individuals. 
+Maintainers are appointed to their role depending on their merits, skills, and contributions to Dogecoin and its community. The composition of the group of maintainers should not represent the opinions of a specific organization, company, or individuals. 
 
 At all times, maintainers act following the opinions of peer reviewers and using common sense judgement. Maintainers are appointed to their role after public discussion on Github. After public discussion, their role can be revoked if their past choices are deemed inappropriate or inconsistent.
 
