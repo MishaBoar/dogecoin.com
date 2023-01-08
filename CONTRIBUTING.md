@@ -90,13 +90,13 @@ Maintainers reserve the right to weigh the opinions of peer reviewers using comm
 that have demonstrated a deeper commitment and understanding toward Dogecoin (over time) or have clear domain expertise may naturally have more weight, as one would expect in all walks of life.
 
 ### Maintainers
-Maintainers are appointed to their role depending on their merits, skills, and contributions to Dogecoin and its community. The composition of the group of maintainers should not represent the opinions of a specific organization, company, or individuals. 
+Maintainers are appointed to their role depending on their merits, skills, and contributions to Dogecoin and its community. The composition of the group of maintainers should be diverse and not represent the opinions of a specific organization, company, groups, or individuals. 
 
 At all times, maintainers act following the opinions of peer reviewers and using common sense judgement. Maintainers are appointed to their role after public discussion on Github. After public discussion, their role can be revoked if their past choices are deemed inappropriate or inconsistent.
 
 ### Merging pull requests
 
-Maintainers can only merge pull requests after any maintainer, other than the author of a pull request has approved the submission according to the decision making process outlined above.
+Maintainers can only merge pull requests after any maintainer, other than the author of a pull request, has approved the submission according to the decision making process outlined above.
 
 Maintainers must keep pull requests open for at least 24 hours after approval to merge is given, to allow anyone to voice a concern that may have been missed in review, or request more time to investigate a suspected issue. 
 
@@ -108,6 +108,5 @@ Time-critical changes containing advisories or security fixes can be exempted fr
 
 ## Copyright
 
-By contributing to this repository, you agree to license your work under the 
-MIT license unless specified otherwise in `contrib/debian/copyright` or at 
+By contributing to this repository, you agree to license your work under the MIT license unless specified otherwise in `contrib/debian/copyright` or at 
 the top of the file itself. Any work contributed where you are not the original author must contain its license header with the original author(s) and source.
